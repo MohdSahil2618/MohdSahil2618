@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Mohd Sahil 👋
 
-<!--
-**MohdSahil2618/MohdSahil2618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI and ML enthusiast with expertise in full-stack development.
 
-Here are some ideas to get you started:
+I'm passionate about building scalable web applications and exploring the world of artificial intelligence. I love turning complex problems into simple, beautiful, and intuitive designs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Technologies & Tools
+
+- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, SQL
+- **Languages:** Python, C++, Java, C
+- **Tools:** Git, Docker, VS Code
+
+---
+
+### 🌱 I’m currently learning...
+
+- Advanced concepts in Large Language Models (LLMs).
+- DevOps practices with Kubernetes.
+
+---
+
+### 📫 How to reach me:
+
+- **LinkedIn:** [https://www.linkedin.com/in/mohd-sahil1/]
+- **Email:** [mohdsahil11554@gmail.com]
+
+---
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MohdSahil2618&show_icons=true&theme=dark)
