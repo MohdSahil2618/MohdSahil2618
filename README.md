@@ -28,6 +28,3 @@ I'm passionate about building scalable web applications and exploring the world 
 - **LinkedIn:** [https://www.linkedin.com/in/mohd-sahil1/]
 - **Email:** [mohdsahil11554@gmail.com]
 
----
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MohdSahil2618&show_icons=true&theme=dark)
